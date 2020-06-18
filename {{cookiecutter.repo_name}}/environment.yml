@@ -1,0 +1,17 @@
+name: {{cookiecutter.package_name}}
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - python>=3.6
+  - jupyter
+  - matplotlib
+  - numpy
+  - scipy
+  - pandas
+  - pylint
+  - pytest
+  - pytorch
+  - torchvision
+  - cudatoolkit=10.2

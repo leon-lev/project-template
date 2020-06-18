@@ -1,0 +1,9 @@
+# jupyter
+# matplotlib
+numpy
+# scipy
+# pandas
+# pylint
+# pytest
+# pytorch
+# torchvision
